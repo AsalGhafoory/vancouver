@@ -57,6 +57,7 @@ body {
     border-radius: 5px;
     padding: 10px 20px;
     margin-top: 20px;
+    height: 80px;
     cursor: pointer;
     border: none;
     width: 100%; /* Makes the button span the entire width */
